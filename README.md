@@ -4,7 +4,7 @@
 ## Installation & Usage
 
 ```bash
-$ git clone (url)
+$ git clone https://github.com/vlad777442/sber
 $ cd fastapi-web-starter
 $ pip install -r requirements.txt
 $ uvicorn app.main:app --reload --port 8080
